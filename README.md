@@ -19,4 +19,4 @@ Notice:
 
 
 
-That's all. If you have some advice and confusion about this project, please e-mail me throuth liuxd_sheldon@163.com . I would appreciate it and try my best to help you. 
+That's all. If you have some advice and confusion about this project, please e-mail me through liuxd_sheldon@163.com . I would appreciate it and try my best to help you. 
